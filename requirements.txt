@@ -1,0 +1,23 @@
+pandas
+numpy
+matplotlib
+seaborn
+catboost
+scikit-learn
+scipy
+gdown
+dvc 
+mlflow   #some problem with version 2.2.2
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+-e .
+
+
+
+

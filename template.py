@@ -11,7 +11,7 @@ project_name = "MLproject"
 list_of_files = [
     ".github/workflows/.gitkeep", # will help in ci/cd piileine
     f"src/{project_name}/__init__.py",
-    f"src{project_name}/components/__init__.py",
+    f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/utils/__init__.py",
     f"src/{project_name}/config/__init__.py",
     f"src/{project_name}/config/configuration.py",
@@ -21,7 +21,7 @@ list_of_files = [
     "config/config.yaml",
     "dvc.yaml",
     "params.yaml",
-    "requirements.py",
+    "requirements.txt",
     "setup.py",
     "research/trails.ipynb",
     "templates/index.html"
